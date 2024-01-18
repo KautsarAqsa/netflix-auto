@@ -48,9 +48,6 @@ email_list = data[0]
 pass_list = data[1]
 n_acc = len(email_list)
 
-# email_list = ['lachas@sneezey.online']
-# pass_list = ['safar1']
-
 #--------------------- Logs -------------------------
 
 log_file = open('hackback_log.txt', 'a')

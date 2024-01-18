@@ -1,0 +1,29 @@
+------------------ JOB START ----------------
+exzav@sneezers.space : Test-Participation
+adelicia@netsneeze.com : Test-Participation
+exzav@sneezers.space : Clear-Cookies
+adelicia@netsneeze.com : DENIED!
+croley@sneezey.online : Test-Participation
+cani@netsneeze.com : Test-Participation
+croley@sneezey.online : Clear-Cookies
+cani@netsneeze.com : DENIED!
+kadijus@sneezey.online : Test-Participation
+kadijus@sneezey.online : Clear-Cookies
+------------------ JOB START ----------------
+exzav@sneezers.space : DENIED!
+adelicia@netsneeze.com : DENIED!
+------------------ JOB START ----------------
+exzav@sneezers.space : Test-Participation
+exzav@sneezers.space : DENIED!
+adelicia@netsneeze.com : Test-Participation
+adelicia@netsneeze.com : DENIED!
+------------------ JOB START ----------------
+exzav@sneezers.space : Test-Participation
+exzav@sneezers.space : DENIED!
+adelicia@netsneeze.com : Test-Participation
+adelicia@netsneeze.com : DENIED!
+------------------ JOB START ----------------
+adelicia@netsneeze.com : Test-Participation
+exzav@sneezers.space : Test-Participation
+adelicia@netsneeze.com : DENIED!
+exzav@sneezers.space : DENIED!

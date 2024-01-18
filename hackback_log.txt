@@ -1,0 +1,8 @@
+------------------ JOB START ----------------
+zokoid@netsneeze.com : Test-Participation
+zokoid@netsneeze.com : INCORRECT
+------------------ JOB START ----------------
+zokoid@netsneeze.com : DENIED!
+------------------ JOB START ----------------
+zokoid@netsneeze.com : DENIED!
+------------------ JOB START ----------------
